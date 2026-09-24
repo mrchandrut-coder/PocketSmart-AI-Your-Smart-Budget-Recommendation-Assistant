@@ -99,7 +99,7 @@ SECRET_KEY=your_jwt_secret_key_here
 uvicorn app:app --reload
 ```
 
-Visit `http://localhost:8000` in your browser.
+Visit `http://127.0.0.1:8000` in your browser.
 
 ---
 
