@@ -155,7 +155,7 @@ Pull requests are welcome! For major changes, please open an issue first to disc
 ---
 ## Documentation Link
 
-https://docs.google.com/document/d/1rHlqSoJwTwhcVC18D9IK_oJf9SjduFuw/edit?usp=drivesdk&ouid=105926425446233546991&rtpof=true&sd=true
+https://docs.google.com/document/d/1mmDAyYP_CLqTBu1ADjC_wnLEnkHhmplZ/edit?usp=drivesdk&ouid=105926425446233546991&rtpof=true&sd=true
 ---
 
 ## 📄 License
